@@ -1,0 +1,11 @@
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.csprojAssemblyReference.cache
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.csproj.CoreCompileInputs.cache
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.AssemblyInfoInputs.cache
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.AssemblyInfo.cs
+D:\Projects\StudyingCode\DepthFirstSearch\bin\Debug\netcoreapp2.2\DepthFirstSearch.deps.json
+D:\Projects\StudyingCode\DepthFirstSearch\bin\Debug\netcoreapp2.2\DepthFirstSearch.runtimeconfig.json
+D:\Projects\StudyingCode\DepthFirstSearch\bin\Debug\netcoreapp2.2\DepthFirstSearch.runtimeconfig.dev.json
+D:\Projects\StudyingCode\DepthFirstSearch\bin\Debug\netcoreapp2.2\DepthFirstSearch.dll
+D:\Projects\StudyingCode\DepthFirstSearch\bin\Debug\netcoreapp2.2\DepthFirstSearch.pdb
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.dll
+D:\Projects\StudyingCode\DepthFirstSearch\obj\Debug\netcoreapp2.2\DepthFirstSearch.pdb
